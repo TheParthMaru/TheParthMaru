@@ -1,6 +1,6 @@
 ### Hello, I'm Parth Maru! 👋
 
-Here are some ideas to get you started:
+Somethings about me 👇🏼
 
 - 🔭 I’m currently working on self-development.
 - 🌱 I’m currently learning Front-end Web Development and DSA.
