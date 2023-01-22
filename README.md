@@ -9,4 +9,4 @@ Somethings about me 👇🏼
 - 💬 Ask me about Web Dev, Python, JavaScript or any beginner friendly programming/ tech related stuff.
 - 📫 How to reach me: Email - maruparth7@gmail.com
 <!-- - 😄 Pronouns: He -->
-- ⚡ Fun fact: Believe in yourself.
+- ⚡ Quote that motivates me: Learning slowly is the fastest way to learn 😊
