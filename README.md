@@ -20,7 +20,7 @@ Somethings about me 👇🏼
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theparthmaru&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://github.com/theparthmaru/top-langs-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theparthmaru&langs_count=5&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theparthmaru&langs_count=6&layout=compact" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=theparthmaru&style=for-the-badge)
