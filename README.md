@@ -23,7 +23,7 @@ Somethings about me 👇🏼
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theparthmaru&langs_count=6&layout=compact" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=theparthmaru&style=for-the-badge)
+<!-- ![](https://komarev.com/ghpvc/?username=theparthmaru&style=for-the-badge) -->
 
 <!-- # <img src="https://hotemoji.com/images/dl/d/man-technologist-emoji-by-google.png" width="30px"> Technologies and Tools 
 
