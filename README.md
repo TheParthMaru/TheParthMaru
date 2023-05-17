@@ -3,9 +3,9 @@
 Somethings about me 👇🏼
 
 - 🔭 I’m currently working on self-development.
-- 🌱 I’m currently learning Front-end Web Development and DSA.
+- 🌱 I’m currently learning JavaScript.
 <!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
+- 🤔 I’m looking for help with Open Source Contributions.
 - 💬 Ask me about Web Dev, Python, JavaScript or any beginner friendly programming/ tech related stuff.
 - 📫 How to reach me: Email - maruparth7@gmail.com
 <!-- - 😄 Pronouns: He -->
@@ -20,7 +20,7 @@ Somethings about me 👇🏼
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theparthmaru&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://github.com/theparthmaru/top-langs-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theparthmaru&langs_count=10&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theparthmaru&langs_count=5&layout=compact" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=theparthmaru&style=for-the-badge)
