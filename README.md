@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Operator+Mono&weight=900&size=26&pause=1000&center=true&vCenter=true&width=1000&lines=Computer+Science+Graduate++%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Software+Engineer++%F0%9F%92%BC;Passionate+coder+and+learner+%F0%9F%A4%93%F0%9F%92%BB)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 I’m currently working on Finance Tracker App<br>👯 I’m looking to collaborate on Frontend (React)<br>🤝 I’m looking for help with Frontend (React)<br>🌱 I’m currently learning DSA, Frontend and Backend<br>💬 Ask me about anything<br>⚡ Fun fact: Be loyal to your partner but not to any programming language.
+🔭 I’m currently working on <strong style="color: red;">Finance Tracker App</strong><br>👯 I’m looking to collaborate on <strong>Frontend (React)</strong><br>🤝 I’m looking for help with <strong>Frontend (React)</strong><br>🌱 I’m currently learning <strong>DSA, Frontend and Backend</strong><br>💬 Ask me about anything<br>⚡ Fun fact: <strong>Be loyal to your partner but not to any programming language.</strong>
 
 
 ## 🌐 Socials:
